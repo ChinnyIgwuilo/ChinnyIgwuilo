@@ -1,27 +1,44 @@
- Hi there 👋
+👋 Hi, I’m Chinny!
+🎓 Junior at the University of North Carolina at Charlotte, studying Computer Science (IT concentration) with a minor in International Studies
+🔭 Aspiring AI, cybersecurity, and machine learning enthusiast with a passion for solving real-world problems through technology
 
-Aspiring information analyst with hands on experiences in machine learning. I focus on clean code, scalable solutions, and continuous learning.
-- BA in Computer Science with a concentration in Information Technology and Minor in International Studies, May 2027
-- Interests include gardening, reading, music.
-- Currently learning Machine Learning and Artificial Intelligence
-- Reach me: https://www.linkedin.com/in/chinny-igwuilo-644b44277/ or Email: cigwuilo@charlotte.edu
-- Technical skills: 
-•	Programming Languages: Python, Java, HTML, SQL
-•	Systems: Microsoft Word, Excel, PowerPoint, Adobe Photoshop, Visual Studio Code, Microsoft Office
-•	Tools: Figma, Beautiful Soup, Requests Libraries, Jupyter, NumPy, pandas, Matplotlib
-- Fun fact: I'm a first generation Nigerian immigrant!
+I thrive on building clean, scalable solutions and continuously growing my technical expertise. Currently, I’m deepening my knowledge in machine learning and artificial intelligence while preparing for a future career at the intersection of AI and cybersecurity. I’m eager to apply my skills in an internship where I can contribute to impactful projects and learn from industry professionals—know of any opportunities? Let’s connect!
 
-<!--
-**ChinnyIgwuilo/ChinnyIgwuilo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Featured Project: Book Review Sentiment Classifier
+What I Did: Preprocessed book review data, applied TF-IDF vectorization, and trained Logistic Regression, Naive Bayes, and SVM models to classify review sentiment.
+Tools: Python, scikit-learn, pandas, NumPy, Matplotlib
+Result: Achieved 82% accuracy with optimized models and improved classification performance through GridSearchCV.
+Curious? Check it out on GitHub
 
-Here are some ideas to get you started:
-Aspiring information analyst with hands on experiences in machine learning. I focus on clean code, scalable solutions, and continuous learning.
-- BA in Computer Science with a concentration in Information Technology and Minor in International Studies, May 2027
-- Interests include gardening, reading, music.
-- Currently learning Machine Learning and Artificial Intelligence
-- Reach me: https://www.linkedin.com/in/chinny-igwuilo-644b44277/
-- Technical skills: 
-•	Programming Languages: Python, Java, HTML, SQL
-•	Systems: Microsoft Word, Excel, PowerPoint, Adobe Photoshop, Visual Studio Code, Microsoft Office
-•	Tools: Figma, Beautiful Soup, Requests Libraries, Jupyter, NumPy, pandas, Matplotlib
-- Fun fact: I'm a first generation Nigerian immigrant!
+🛠 Tech Stack:
+
+Languages: Python, Java, HTML, SQL
+
+Data Science & ML: pandas, NumPy, scikit-learn, Matplotlib, Jupyter
+
+Tools & Systems: Figma, Beautiful Soup, Requests, Visual Studio Code, Adobe Photoshop, Microsoft Office
+
+Other Interests: Exploring AI, cybersecurity, and scalable solutions
+
+🚀 Other Projects:
+Model Selection for Logistic Regression – ML Model Optimization
+Implemented a GridSearchCV-based approach to optimize hyperparameters for Logistic Regression, improving model performance on classification tasks.
+Tech Stack: Python, scikit-learn, pandas, NumPy, Jupyter
+Learnings: Applied model selection techniques and cross-validation to enhance predictive accuracy.
+
+My Cornell AI Portfolio
+Completed Break Through Tech AI program with Cornell University, building industry-relevant AI solutions and earning certification.
+Tech Stack: Python, scikit-learn, Google Colab
+Learnings: Worked on collaborative AI projects with industry mentors.
+
+📫 How to Reach Me:
+
+📧 Email: cigwuilo@charlotte.edu
+
+🔗 LinkedIn: linkedin.com/in/chinny-igwuilo-644b44277
+
+💻 GitHub: github.com/ChinnyIgwuilo
+
+✨ Fun Fact:
+I’m a first-generation Nigerian immigrant who loves gardening, reading, and coding with a good playlist!
+
