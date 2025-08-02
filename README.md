@@ -1,4 +1,4 @@
-<img width="1984" height="2976" alt="image" src="https://github.com/user-attachments/assets/0e8e9edc-ab15-4b7c-ad79-bfd255fb6e59" />## Hi there 👋
+ Hi there 👋
 
 Aspiring information analyst with hands on experiences in machine learning. I focus on clean code, scalable solutions, and continuous learning.
 - BA in Computer Science with a concentration in Information Technology and Minor in International Studies, May 2027
