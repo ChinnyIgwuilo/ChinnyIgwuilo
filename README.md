@@ -4,7 +4,7 @@ Aspiring information analyst with hands on experiences in machine learning. I fo
 - BA in Computer Science with a concentration in Information Technology and Minor in International Studies, May 2027
 - Interests include gardening, reading, music.
 - Currently learning Machine Learning and Artificial Intelligence
-- Reach me: https://www.linkedin.com/in/chinny-igwuilo-644b44277/
+- Reach me: https://www.linkedin.com/in/chinny-igwuilo-644b44277/ or Email: cigwuilo@charlotte.edu
 - Technical skills: 
 •	Programming Languages: Python, Java, HTML, SQL
 •	Systems: Microsoft Word, Excel, PowerPoint, Adobe Photoshop, Visual Studio Code, Microsoft Office
